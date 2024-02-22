@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.aditys.themusicalchemy" />
+                  <option name="mobileSdkAppId" value="1:345440807142:android:600cabbbbf273348e47327" />
+                  <option name="projectId" value="themusicalchemy-695a0" />
+                  <option name="projectNumber" value="345440807142" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

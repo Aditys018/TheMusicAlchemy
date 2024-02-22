@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345440807142",
+    "project_id": "themusicalchemy-695a0",
+    "storage_bucket": "themusicalchemy-695a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345440807142:android:600cabbbbf273348e47327",
+        "android_client_info": {
+          "package_name": "com.aditys.themusicalchemy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Z6CEtIQtNvAp70ixjUYEPSbX7Zolcew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
