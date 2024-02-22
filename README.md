@@ -1,1 +1,1 @@
-# GDSC-Android_ver.1.0
+# A music streaming application
